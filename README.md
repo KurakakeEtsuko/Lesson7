@@ -8,4 +8,6 @@ POSTリクエストの実行結果
 PATCHリクエストの実行結果
 ![image](https://user-images.githubusercontent.com/105102234/178309334-36a83eec-0db7-49fc-8925-55b2b16a703b.png)
 
+DELETEリクエストの実行結果
+![image](https://user-images.githubusercontent.com/105102234/178310453-1dbd2709-7fa0-4688-89d0-07b0a349d82f.png)
 
